@@ -1,0 +1,17 @@
+missing module named resource - imported by posix, E:\WORKOUT\tutor\mine\曉偉家課程\hw\hw4\rock-paper-scissors.py
+missing module named posix - imported by os, E:\WORKOUT\tutor\mine\曉偉家課程\hw\hw4\rock-paper-scissors.py
+missing module named _posixsubprocess - imported by subprocess, E:\WORKOUT\tutor\mine\曉偉家課程\hw\hw4\rock-paper-scissors.py
+missing module named org - imported by pickle, E:\WORKOUT\tutor\mine\曉偉家課程\hw\hw4\rock-paper-scissors.py
+missing module named readline - imported by cmd, code, pdb, E:\WORKOUT\tutor\mine\曉偉家課程\hw\hw4\rock-paper-scissors.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, E:\WORKOUT\tutor\mine\曉偉家課程\hw\hw4\rock-paper-scissors.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, E:\WORKOUT\tutor\mine\曉偉家課程\hw\hw4\rock-paper-scissors.py
+missing module named _winreg - imported by platform, E:\WORKOUT\tutor\mine\曉偉家課程\hw\hw4\rock-paper-scissors.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, E:\WORKOUT\tutor\mine\曉偉家課程\hw\hw4\rock-paper-scissors.py
+missing module named 'java.lang' - imported by platform, E:\WORKOUT\tutor\mine\曉偉家課程\hw\hw4\rock-paper-scissors.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, E:\WORKOUT\tutor\mine\曉偉家課程\hw\hw4\rock-paper-scissors.py
+missing module named termios - imported by tty, E:\WORKOUT\tutor\mine\曉偉家課程\hw\hw4\rock-paper-scissors.py, getpass
+missing module named grp - imported by shutil, tarfile, E:\WORKOUT\tutor\mine\曉偉家課程\hw\hw4\rock-paper-scissors.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, E:\WORKOUT\tutor\mine\曉偉家課程\hw\hw4\rock-paper-scissors.py, netrc, getpass
+missing module named 'org.python' - imported by copy, E:\WORKOUT\tutor\mine\曉偉家課程\hw\hw4\rock-paper-scissors.py, xml.sax
+missing module named _dummy_threading - imported by dummy_threading, E:\WORKOUT\tutor\mine\曉偉家課程\hw\hw4\rock-paper-scissors.py
